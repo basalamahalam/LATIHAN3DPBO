@@ -1,3 +1,3 @@
 # LATIHAN4DPBO2023
 
-![alt tag](http://github.com/basalamahalam/LATIHAN4DPBO2023/UML_Latprak3.png)
+![alt tag](https://github.com/basalamahalam/LATIHAN4DPBO2023/blob/main/UML_Latprak3.png)
