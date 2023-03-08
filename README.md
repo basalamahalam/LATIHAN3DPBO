@@ -10,7 +10,7 @@ Berdasarkan program diatas dapat disimpulkan bahwa program tersebut memiliki 6 c
 
 Pertama saya memberikan masukan dalam bentuk Hardcode
 
-![Screenshot](https://github.com/basalamahalam/LATIHAN4DPBO2023/blob/main/python/screenshot/Screenshot%20(1055).PNG)
+![Screenshot](https://github.com/basalamahalam/LATIHAN4DPBO2023/blob/main/python/screenshot/Screenshot%20(1055).png)
 
 Inputan tersebut akan diproses, lalu menampilkan output seperti ini
 
