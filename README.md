@@ -1,3 +1,3 @@
 # LATIHAN4DPBO2023
 
-![Screenshot](D:\TUGAS DOKUMEN PROJECT\TUGAS DAN DATA KULIAH\Sem 4\DPBO\LatPrak3)
+![Screenshot](basalamahalam/LATIHAN4DPBO2023/UML_Latprak3.png)
